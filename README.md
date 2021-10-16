@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YosandiMiguel
-- 👀 I’m interested in .net, C# and Backend development
+- 👀 I’m interested in .net, C#, Backend development and Desktop development
 - 🌱 I’m currently learning Python and C# advanced
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me My gmail is softwaredeveloper.2002.19@gmail.com
