@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YosandiMiguel
+- 👋 Hi, I’m @Yosandi Miguel
 - 👀 I’m interested in .net, C#, Backend development and Desktop development
 - 🌱 I’m currently learning Python and C# advanced
 - 💞️ I’m looking to collaborate on ...
